@@ -1,0 +1,6 @@
+//20% tip
+var amount = 18.50
+
+var tip = amount * 0.2
+
+print(tip)
